@@ -4,10 +4,9 @@ the two moons may be a problem
 but the mumm will appreciate the lack of humidity
 I'm adding text via git hub
 
-<<<<<<< HEAD
 Ok, windows...I got that...
-=======
 i realyy don't care aboutt mars, i rather e explore mummies insJupiterer 
->>>>>>> 72dda996126fc4c995d8aa5ac9e41975e6b188e6
 
 Can I add changes????
+i realyy don't care aboutt mars, i rather e explore mummies insJupiterer
+what is up with the wolfman?? 
